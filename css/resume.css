@@ -1,0 +1,22 @@
+body{
+  background: lightpink;
+}
+.main{
+  width:95%;
+  background: lightblue;
+  display: flex;
+  margin: 1%;
+}
+.left{
+  background: blue;
+  padding: 5%;
+  width:40%;
+  justify-content: space-around;
+  margin: 1%;
+}
+.right{
+  background: yellow;
+  padding: 5%;
+  justify-content: space-around;
+  margin: 1%;
+}

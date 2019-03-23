@@ -1,0 +1,50 @@
+body {
+  background: #1B68EB ;
+}
+.main {
+  display: flex;
+  margin: 1%;
+  background: yellow;
+  padding: 1%;
+  border: 2px solid blue;
+  width: 95%;
+  justify-content: space-around;
+}
+.main section{
+  background: green;
+  width:95%
+  border: 2px solid blue;
+  margin: 1%;
+  padding: 1%;
+  justify-content: space-around;
+}
+section {
+  background: yellow;
+  text-align:center;
+   border: 2px solid red;
+   width:50%;
+   justify-content: space-around;
+}
+input,select{
+  width:95%;
+  margin: 1%;
+  padding: 1%;
+  display: block;
+  border: 2px solid blue;
+}
+#career{
+  width:95%;
+  padding:2%;
+display: block;
+  margin:1%
+
+}
+button{
+  width: 25%;
+  background: red;
+  color: #dda;
+  margin:1%;
+  padding: 1%;
+  font-size: 40px;
+  font-weight: bold;
+}
